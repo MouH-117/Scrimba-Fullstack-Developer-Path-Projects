@@ -1,2 +1,2 @@
 # Scrimba-Fullstack-Developer-Path-Projects
-Build Projects to reinforce my learning journey about the entire stack from backend to frontend. Focused on hireable skills from the JavaScript ecosystem, like React, Node, Express, Next, and even AI engineering
+Building Projects to reinforce my learning journey about the entire stack from backend to frontend. Focused on skills from the JavaScript ecosystem, like React, Node, Express, Next, AI engineering and more !
